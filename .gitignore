@@ -1,0 +1,3 @@
+secret.txt
+*. log 
+# with *. all *.txt file will be ignored
